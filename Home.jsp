@@ -11,7 +11,7 @@
 
 <body>
 
-	<form action="Receiver.jsp" method="post">
+	<form action="Receiver.jsp" method="get">
 		Ano de Nascimento:<input type="number" name="in1"><br>
 		Fez Aniversário?:<input type="checkbox" name="in2" value='true'><br>
 		
